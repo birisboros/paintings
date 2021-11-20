@@ -229,6 +229,7 @@
     background-color: rgba(0, 0, 0, 0.637);
     display: flex;
     justify-content: center;
+    z-index: 99;
 }
 .linked{
     font-family: Arial;
